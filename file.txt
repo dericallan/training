@@ -1,5 +1,3 @@
 master Dhanveer
 branch-1 Abrar
 
-Dhanveer	
-Abrar
