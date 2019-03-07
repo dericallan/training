@@ -1,8 +1,1 @@
-master Dhanveer
-branch-1 Abrar
-Abrar
-nayeem
-<<<<<<< HEAD
-sandeep
-=======
->>>>>>> 6034233bacd04937712e254b281388fcacc6807a
+print "Hello World"
