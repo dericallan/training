@@ -1,0 +1,2 @@
+!bash
+echo $1
